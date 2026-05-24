@@ -1,0 +1,9 @@
+{
+  "name": "MODEL METHOD - Mathematical Proportions Lab",
+  "description": "A hyper-advanced AI platform for mathematical face symmetry analysis, golden ratio mapping, and structural transformation, guided by Method AI Agent.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
